@@ -1,5 +1,5 @@
 {
-    "name": "schrittzähler",
+    "name": "schrittzähler_countdown",
     "description": "",
     "dependencies": {
         "core": "*",
